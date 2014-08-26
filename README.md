@@ -1,4 +1,4 @@
 vnc-openshift-quickstart
 ========================
 
-This is a quickstart for the VNC IRC Bouncer on OpenShift
+This is a quickstart for the ZNC IRC Bouncer on OpenShift
